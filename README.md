@@ -12,7 +12,7 @@
 <br>
 
 
-![Maybe's Github Stats](https://github-readme-stats-edvo1901.vercel.app/api?username=arogyamagar\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Arogya Thapa Magar's Github Stats](https://github-readme-stats-edvo1901.vercel.app/api?username=arogyamagar\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <br>
 
